@@ -1,1 +1,1 @@
-test
+KVM='--enable-kvm --cpu host' ZELDA64=/root/ZeldaOS.x86_64/ make run
